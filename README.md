@@ -103,6 +103,7 @@ SmartEvent/
 │   ├── package.json
 │   └── vite.config.js
 ├── Modules 12-17 Screenshots/
+├── Screenshots Phase 1/
 └── README.md
 ```
 
@@ -134,11 +135,6 @@ npm run dev
 
 Frontend: http://localhost:5173
 
-## Screenshots
-
-Project screenshots are organized into the following directories:
-
-- `Modules 12-17 Screenshots/` – screenshots for Modules 12–17
 
 ## Event Images
 
